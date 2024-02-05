@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate data analyst dedicated to derivi
 - **Description:** In this projects, I solved Easy, Medium and Advance lavel queries.
 - **Data Source:** Downloaded from a youtuber "Rishabh Mishra".
 - **Tools Used:** PostgreSQL, SQL.
-- <!---**Analysis Highlights:** A few key insights or findings from the analysis.
+- <!---**Analysis Highlights:** A few key insights or findings from the analysis.--->
 - **How to Use:** Download Data(In form of database), Copy and paste queries, I uploded in my repository, question set wise.
 
 ### Excel Project - Vrinda Store Sales Dashboard & Report
